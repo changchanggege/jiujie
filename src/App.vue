@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     哈哈哈
+    <p>nidhi dsiofjodsg</p>
     <router-view/>
   </div>
 </template>
